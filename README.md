@@ -63,4 +63,5 @@ Enjeux du Dashboard :
 | Source | Usage |
 |---|---|
 | Suivi Excel | saisie quotidien d'étude, résultats des exercices, scores des mocks |
-| Illustrations | JLPT visuel officiel | [irasutoya.com](https://www. irasutoya.com) | Illustrations libres de droits |
+| Illustrations | JLPT visuel officiel
+| [irasutoya.com](https://www. irasutoya.com) | Illustrations libres de droits |
