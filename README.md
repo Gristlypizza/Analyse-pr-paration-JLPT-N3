@@ -51,7 +51,7 @@ Enjeux du Dashboard :
 <img src="assets/bilan.png" width="800" alt="page rétrospective"/>
 
 ### Correlation résultats mocks / avancement 
-<img src="assets/correlation.png" width="800" alt="page corrélation"/>
+<img src="assets/correlation.png" width="00" alt="page corrélation"/>
 
 ---
 
@@ -62,7 +62,7 @@ Enjeux du Dashboard :
 <img src="assets/modele2.png" width="800" alt="schéma en étoile"/>
 
  ### Dépendances Power Query
-<img src="assets/modele1.png" width="800" alt="dépendances de la requête"/>
+<img src="assets/modele1.png" width="400" alt="dépendances de la requête"/>
 
 ---
  
