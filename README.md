@@ -46,6 +46,7 @@ Enjeux du Dashboard :
  
 ### Vue d'ensemble
 <img src="assets/accueil.png" width="800" alt="vue d'ensemble"/>
+<img src="assets/accueil2.png" width="800" alt="vue d'ensemble"/>
 
 ### Bilan
 <img src="assets/bilan.png" width="800" alt="bilan"/>
