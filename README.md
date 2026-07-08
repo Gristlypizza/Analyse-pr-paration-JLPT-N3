@@ -46,12 +46,16 @@ Enjeux du Dashboard :
  
 ### Vue d'ensemble
 <img src="assets/accueil.png" width="800" alt="page vue d'ensemble"/>
-### Rétrospective de session
+
+### Bilan
 <img src="assets/bilan.png" width="800" alt="page rétrospective"/>
-### Corrélation effort / résultat
+
+### Correlation résultats mocks / avancement 
 <img src="assets/correlation.png" width="800" alt="page corrélation"/>
+
 ---
- 
+
+
 ## Modèle de données
 
 ### Schéma en étoile
@@ -59,6 +63,7 @@ Enjeux du Dashboard :
 
  ### Dépendances Power Query
 <img src="assets/modele1.png" width="800" alt="dépendances de la requête"/>
+
 ---
  
 ## Sources
