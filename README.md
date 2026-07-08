@@ -53,9 +53,12 @@ Enjeux du Dashboard :
 ---
  
 ## Modèle de données
- 
-<img src="assets/modele1.png" width="800" alt="dépendances de la requête"/>
+
+### Schéma en étoile
 <img src="assets/modele2.png" width="800" alt="schéma en étoile"/>
+
+ ### Dépendances Power Query
+<img src="assets/modele1.png" width="800" alt="dépendances de la requête"/>
 ---
  
 ## Sources
@@ -63,5 +66,5 @@ Enjeux du Dashboard :
 | Source | Usage |
 |---|---|
 | Suivi Excel | saisie quotidien d'étude, résultats des exercices, scores des mocks |
-| Illustrations | JLPT visuel officiel
-| [irasutoya.com](https://www. irasutoya.com) | Illustrations libres de droits |
+| Illustrations | JLPT visuel officiel |
+| [irasutoya.com](https://www.irasutoya.com) | Illustrations libres de droits |
